@@ -1,0 +1,31 @@
+﻿  pch.cpp
+  Add_Vehicle_Window.cpp
+  Aerial1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Boeing7371.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  deleteVehicleDlg.cpp
+  ExistingVehicles.cpp
+  GoldenQueen1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ground1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MAN_NL1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MyTickets2.cpp
+  orderTicket.cpp
+  Sea1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Taxi1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ticket1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ticket_Application.cpp
+  Ticket_ApplicationDlg.cpp
+  Train1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Vehicle1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  viewTicketInformation.cpp
+  Generating Code...
+  Ticket_Application.vcxproj -> C:\Users\USER\Desktop\Debug\Ticket_Application.exe

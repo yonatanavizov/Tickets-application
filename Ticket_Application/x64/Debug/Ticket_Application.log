@@ -1,0 +1,36 @@
+﻿  pch.cpp
+  Add_Vehicle_Window.cpp
+  Aerial1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Boeing7371.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  deleteVehicleDlg.cpp
+  ExistingVehicles.cpp
+C:\Users\USER\Desktop\פרויקט מונחה עצמים\Ticket_Application\ExistingVehicles.cpp(44,29): warning C4244: '=': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\USER\Desktop\פרויקט מונחה עצמים\Ticket_Application\ExistingVehicles.cpp(51,10): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  GoldenQueen1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ground1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MAN_NL1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MyTickets2.cpp
+C:\Users\USER\Desktop\פרויקט מונחה עצמים\Ticket_Application\MyTickets2.cpp(39,19): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  orderTicket.cpp
+  Sea1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Taxi1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ticket1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Ticket_Application.cpp
+  Ticket_ApplicationDlg.cpp
+C:\Users\USER\Desktop\פרויקט מונחה עצמים\Ticket_Application\Ticket_ApplicationDlg.cpp(211,19): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\USER\Desktop\פרויקט מונחה עצמים\Ticket_Application\Ticket_ApplicationDlg.cpp(218,17): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  Train1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Vehicle1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  viewTicketInformation.cpp
+  Generating Code...
+  Ticket_Application.vcxproj -> C:\Users\USER\Desktop\פרויקט מונחה עצמים\x64\Debug\Ticket_Application.exe
